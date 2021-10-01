@@ -1,9 +1,7 @@
 {
     "name": "ecmascript learning",
     "version" : "1",
-
-
-"scripts": {
+    "scripts": {
     "dev": "lite-server"
   }
 }
