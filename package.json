@@ -1,6 +1,5 @@
 {
     "name": "ecmascript",
-    "version" : "1",
     "scripts": {
     "dev": "lite-server"
   },
